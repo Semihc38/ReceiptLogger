@@ -1,0 +1,20 @@
+
+Market                      Price      Date               
+Walmart                   | $100.99  | Sun Nov 15 19:17:56 EST 2020 
+Costco                    | $56.78   | Sun Nov 15 19:17:56 EST 2020 
+Total Price for Today's Shop: $157.76999999999998
+
+Market                      Price      Date               
+Walmart                   | $12.98   | Sun Nov 15 19:20:37 EST 2020 
+Sams Club                 | $213.0   | Sun Nov 15 19:20:37 EST 2020 
+Total Price for Today's Shop: $226
+
+Market                      Price      Date               
+Walmart                   | $12.99   | Sun Nov 15 19:23:58 EST 2020 
+Aldi                      | $33.99   | Sun Nov 15 19:23:58 EST 2020 
+Total Price for Today's Shop: $47
+
+Market                      Price      Date               
+Walmart                   | $23.89   | Sun Nov 15 19:26:50 EST 2020 
+Aldi                      | $12.98   | Sun Nov 15 19:26:50 EST 2020 
+Total Price for Today's Shop: $36.870000000000005

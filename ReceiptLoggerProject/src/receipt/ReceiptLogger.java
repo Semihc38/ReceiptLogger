@@ -14,11 +14,11 @@ public class ReceiptLogger {
 
         String response = "Yes";
         Scanner scan = new Scanner(System.in);
-        File diskFile = new File("Log.txt");
+        File file = new File("Log.txt");
 
 
 
-        FileWriter aFileWriter = new FileWriter(diskFile, true);
+        FileWriter aFileWriter = new FileWriter(file, true);
         BufferedWriter bw = new BufferedWriter(aFileWriter);
         PrintWriter p = new PrintWriter(bw);
 
